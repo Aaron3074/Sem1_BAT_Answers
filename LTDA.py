@@ -180,3 +180,5 @@ total_marks = sum(student_marks.values())
 
 # print the total marks
 print("Total marks:", total_marks)
+
+# Code Written by Aaron D'Costa(22BRS1129)
